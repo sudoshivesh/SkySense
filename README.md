@@ -6,6 +6,7 @@ Introducing SkySense, a Java-based web app powered by JSP and Servlets, seamless
 ## Dependencies
 
 * [Java Editor](https://www.eclipse.org/downloads/), [OpenWeatherAPI](https://openweathermap.org/api), [Apache Tomcat Server](https://tomcat.apache.org/)
+* You're requested to use your own generated API key.
 
 * First, clone the repository and enter the folder
 
@@ -18,8 +19,10 @@ Introducing SkySense, a Java-based web app powered by JSP and Servlets, seamless
 
 * The snapshot of the output is given below:
 
-  ![codeInterface-output](img/codeInterface-output.png)
+  ![code](img/code.png)
   
-  ![coding-interface](img/coding-interface.png)
+  ![final-output](img/final-output.png)
+
+  ![internal_output](img/internal_output.png)
 
 * For any query, You may conatct [Shivesh](https://wwww.linkedin.com/in/sudoshivesh/)
