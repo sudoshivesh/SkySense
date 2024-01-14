@@ -11,7 +11,7 @@ Introducing SkySense, a Java-based web app powered by JSP and Servlets, seamless
 * First, clone the repository and enter the folder
 
   ```bash
-  git clone https://github.com/sudoshivesh/LookSense.git
+  git clone https://github.com/sudoshivesh/SkySense.git
   cd SkySense
   ```
   
